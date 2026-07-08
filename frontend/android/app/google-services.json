@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035720519319",
+    "project_id": "milkarchalo-ca156",
+    "storage_bucket": "milkarchalo-ca156.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035720519319:android:1e2b4c9436a462b76503d2",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4h8Mr_dSPwZlBCJdrDmqIADTOWVYCkWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
